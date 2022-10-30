@@ -40,9 +40,9 @@
 			<div class="col-lg-6 ofset offset-md-3" style="text-align: center;">
 				<div class="login_part_form">
 					<div class="login_part_form_iner">
-						<h1>JARDINERIA DPWEB</h1><br>
+						<h1>AGROCENTA</h1><br>
 						<br>
-						<img src="https://static.vecteezy.com/system/resources/previews/000/585/414/non_2x/vector-leaf-green-nature-logo-and-symbol-template.jpg" style="width: 250px;" alt="">
+						<img src="img/login.png" style="width: 152px;margin-bottom: 30px;" alt="">
 						<br>
 						<h3>Inicio de sesión <br>
 						Ingresa tus datos</h3>
@@ -58,11 +58,12 @@
 									<input type="checkbox" id="f-option" name="selector">
 									<label for="f-option">Recuerdame</label>
 								</div>
-								<button type="submit" value="submit" class="btn-sm btn-primary">
+								<button type="submit" value="submit" class="btn-sm btn-primary" style="width: inherit;height: 49px;">
 									Iniciar sesión
 								</button>
 								<br />
-								<a class="lost_pass" style="color: blue;" href="#">Olvide mi password</a>
+								<br />
+								<a class="lost_pass" style="color: blue;" href="#">Olvide mi Contraseña</a>
 							</div>
 						</form>
 					</div>

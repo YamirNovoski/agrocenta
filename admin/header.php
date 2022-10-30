@@ -11,7 +11,7 @@ if ($_SESSION['rol']!=1) {
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-	<title>Jardineria admin DPWEB</title>
+	<title>AGROCENTA</title>
 	<!-- Favicon-->
 
 
@@ -99,7 +99,7 @@ if ($_SESSION['rol']!=1) {
 			<div class="navbar-header">
 				<a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
 				<a href="javascript:void(0);" class="bars"></a>
-				<a class="navbar-brand" href="index.php">Administración Jardineria - DWEB</a>
+				<a class="navbar-brand" href="index.php">Administración Agrocenta</a>
 			</div>
 			<div class="collapse navbar-collapse" id="navbar-collapse">
 				<ul class="nav navbar-nav navbar-right">

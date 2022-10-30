@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Jardineria DPWEB </title>
+    <title>AGROCENTA</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
@@ -66,9 +66,9 @@
                                             <li><a href="index.php">Inicio</a></li>
                                             <li><a href="productos.php">Productos</a>
                                             </li>
-                                            <li><a href="encuesta.php">Encuesta</a></li>
+                                            <!--li><a href="encuesta.php">Encuesta</a></li-->
                                             <li><a href="contact.php">Contacto</a></li>
-                                            <li><a href="historial.php">Historial</a></li>
+                                            <li><a href="historial.php">Historial de Compra</a></li>
                                             <!--li><a href="#">Menús Antiguos</a>
                                                 <ul class="submenu">
                                                      <li><a href="oldproyect/historia.html">Historia del sitio</a> </li>

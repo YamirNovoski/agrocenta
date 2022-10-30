@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Jardineria DPWEB </title>
+    <title>AGROCENTA</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -63,9 +63,9 @@
                                         <ul id="navigation">                          
                                             <li><a href="index.php">Inicio</a></li>
                                             <li><a href="productos.php">Productos</a></li>
-                                            <li><a href="encuesta.php">Encuesta</a></li>
+                                            <!--li><a href="encuesta.php">Encuesta</a></li-->
                                             <li><a href="contact.php">Contacto</a></li>
-                                            <li><a href="#">Otros</a>
+                                            <!--li><a href="#">Otros</a>
                                                 <ul class="submenu">
                                                      <li><a href="oldproyect/historia.html">Historia del sitio</a> </li>
                                                      <li><a href="oldproyect/plataformas.html">Plataformas Web</a> </li>
@@ -75,7 +75,7 @@
                                                      <li><a href="oldproyect/info.html">Informacion del grupo</a> </li>
                                                      <li><a href="oldproyect/glosario.html">Glosario</a> </li> 
                                                 </ul>
-                                            </li>
+                                            </li-->
                                         </ul>
                                     </nav>
                                 </div>

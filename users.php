@@ -11,18 +11,18 @@ include 'head_users.php';
             <div class="container">
                 <div class="row d-flex align-items-center justify-content-between">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 d-none d-md-block">
-                        <div class="hero__img" data-animation="bounceIn" data-delay=".4s">
+                        <!--div class="hero__img" data-animation="bounceIn" data-delay=".4s">
                             <img src="assets/img/hero/hero_man.png" alt="">
-                        </div>
+                        </div-->
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-8">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-8" style="margin-top: 120px">
                         <div class="hero__caption">
-                            <span data-animation="fadeInRight" data-delay=".4s">60% De descuento </span>
-                            <h1 data-animation="fadeInRight" data-delay=".6s">El verano <br> Está acá</h1>
-                            <p data-animation="fadeInRight" data-delay=".8s">Colección de verano</p>
+                            <span data-animation="fadeInRight" data-delay=".4s" style="color:green;">Tenemos todo</span>
+                            <h2 data-animation="fadeInRight" data-delay=".6s" style="font-size:65px;text-shadow: 2px 2px #ffffff;">Lo relacionado<br>con agricultura</h2>
+                            <p data-animation="fadeInRight" data-delay=".8s" style="font-size:35px;color:green;text-shadow: 1px 1px black">Adquiere ya tu materia Prima</p>
                             <!-- Hero-btn -->
                             <div class="hero__btn" data-animation="fadeInRight" data-delay="1s">
-                                <a href="#" class="btn hero-btn">Comprar ahora</a>
+                                <a href="#" class="btn hero-btn" style="">Comprar ahora <i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
                             </div>
                         </div>
                     </div>
@@ -33,9 +33,9 @@ include 'head_users.php';
             <div class="container">
                 <div class="row d-flex align-items-center justify-content-between">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 d-none d-md-block">
-                        <div class="hero__img" data-animation="bounceIn" data-delay=".4s">
+                        <!--div class="hero__img" data-animation="bounceIn" data-delay=".4s">
                             <img src="assets/img/hero/hero_man.png" alt="">
-                        </div>
+                        </div-->
                     </div>
                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-8">
                         <div class="hero__caption">
