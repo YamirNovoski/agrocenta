@@ -175,7 +175,7 @@ if ($_SESSION['rol']!=1) {
 							</li>
 							<li>
 								<a href="reporte_compras.php">
-									<span>compras</span>
+									<span>Ventas de Productos</span>
 								</a>
 							</li>
 						</ul>
@@ -202,6 +202,9 @@ if ($_SESSION['rol']!=1) {
 							<li>
 								<a href="agregar_productos.php">
 									<span>Agregar</span>
+								</a>
+								<a href="https://localhost/agrocenta/mostrarproduc.php">
+									<span>Mantenimiento Productos</span>
 								</a>
 							</li>
 

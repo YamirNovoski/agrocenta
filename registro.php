@@ -126,11 +126,9 @@
               ?>
 
               <?php foreach ($ejecutar as $opciones): ?>
-
                 <option value="<?php echo $opciones['cod_dpto']?>">
                   <?php echo $opciones['nom_dpto']?>
                 </option>
-
               <?php endforeach ?>
 
             </select>
